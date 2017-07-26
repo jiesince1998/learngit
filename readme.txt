@@ -1,2 +1,2 @@
-Git are a version distributed control system.
+Git are a 
 
