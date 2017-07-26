@@ -6,4 +6,6 @@
 *.egg-info
 dist
 build
+learning_git_from_liao
+.gitignore
 
